@@ -1,0 +1,3 @@
+﻿  SkyNetSearch.cpp
+c:\users\hotjs\desktop\skynet\skynetsearch\skynetsearch\skynetsearch.cpp(19): warning C4101: 'Search': unreferenced local variable
+  SkyNetSearch.vcxproj -> C:\Users\hotjs\Desktop\SkyNet\SkyNetSearch\Debug\SkyNetSearch.exe
